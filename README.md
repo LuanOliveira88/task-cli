@@ -23,7 +23,7 @@ Easily add, update, delete, and list tasks with JSON-based persistence — no da
 - No external dependencies — uses only Python’s standard library
 - Compatible with Windows, macOS, and Linux
 
-## ⚙️ Installation
+## Installation
 
 **Clone the repository:**
 
