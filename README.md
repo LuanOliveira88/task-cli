@@ -23,7 +23,7 @@ Easily add, update, delete, and list tasks with JSON-based persistence — no da
 - No external dependencies — uses only Python’s standard library
 - Compatible with Windows, macOS, and Linux
 
-## ⚙️ Installation
+## Installation
 
 **Clone the repository:**
 
@@ -68,17 +68,17 @@ python main.py list
 
 #### List done tasks
 ```bash
-python main.py done  
+python main.py list done  
 ```
 
 #### List in progress tasks
 ```bash
-python main.py in-progress  
+python main.py list in-progress  
 ```
 
 #### List todo tasks
 ```bash
-python main.py todo  
+python main.py list todo  
 ```
 
 ## Project Structure
